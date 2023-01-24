@@ -1,0 +1,15 @@
+To do list:
+
+1. Pieces movement / attacking implementation:
+ - pawns / done
+ - knights /
+ - rooks /
+ - bishops /
+ - queens /
+
+2. Tile's variable (is attacked)
+
+3. King's movement synchronized with the "is attacked" variable
+ - checking / check mating
+
+- more functional visualization (in spare time)
